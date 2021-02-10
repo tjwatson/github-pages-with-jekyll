@@ -4,4 +4,4 @@ date: 2120-02-01
 ---
 
 # Some new content
-Here it is.
+Here it is. Some content
